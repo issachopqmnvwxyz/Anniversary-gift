@@ -1,0 +1,43 @@
+*
+{
+    color:#ffffff ;
+    -webkit-text-stroke: 0.1px #000000;
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.createdby
+{
+    border: 2px solid rgb(222, 240, 243);
+}
+.title 
+{
+   
+    text-align: center; 
+    margin-bottom: 5%;
+}
+.button
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    position: relative;
+    text-align: center;
+}
+.button button
+{
+    font-size: large;
+}
+.button button p
+{
+    margin: 5%;
+    color: #000000;
+}
+body
+{
+    margin : 5%;
+    background-image: url("img/Posters\ Clipart\ Hd\ PNG\,\ Pink\ Background\ Poster\,\ Pink\,\ Gentle\,\ Poster\ Background\ PNG\ Image\ For\ Free\ Download.jpg");
+    background-size: cover;
+    height: 844px;
+}

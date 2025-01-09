@@ -1,0 +1,11 @@
+.imagee img
+{
+width: 50%;
+height: 50%;
+object-fit: cover;
+border-style: solid;
+}
+body
+{
+    margin: 5%;
+}
